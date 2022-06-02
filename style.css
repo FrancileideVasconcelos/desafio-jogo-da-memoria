@@ -13,10 +13,10 @@ body {
 }
 
 .memory-game {
-    height: 900px;
-    width: 800px;
-    margin-top: 24rem;
-    margin-left: 15rem;
+    height: 45rem;
+    width: 42rem;
+    margin-top: 11rem;
+    margin-left: 5rem;
     display: flex;
     flex-wrap: wrap;
     perspective: 1000px; 
